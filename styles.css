@@ -1,0 +1,106 @@
+.body1
+{
+	background-color:black;
+}
+.body2
+{
+	 background-color:#EBEBEB;
+}
+form
+{
+	width:100%;
+}
+.login-pg,.fin_yr
+{
+	margin-top:100px;
+	margin-left:350px;
+}
+.ctrl-gp
+{
+	margin-top:20px;
+}
+#butt
+{
+	margin-top:10px;
+	margin-right:25px;
+	padding-left:22px;
+	padding-right:22px;
+}
+
+#box1,#box2
+{
+	margin-right:20px;
+	margin-left:2px;
+}
+#fl
+{
+	float:left;
+	margin:1%;
+}
+.sel
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	width:16%;
+}
+.sel1
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	position:absolute;
+	margin-left:2%;
+	width:15%;
+}
+			
+#box21,#box22
+{
+	width:35%;
+	float:left;
+	margin:1%;
+}
+.thlta
+{
+	position:absolute;
+	margin:1%;
+	float:left;
+	top:17%;
+}
+.thl
+{
+	position:absolute;
+	margin-left:15%;
+	float:left;
+	margin-right:0%;
+	top:18%;
+}
+#box31
+{
+	position:absolute;
+	left:98%;
+	float:left;
+	margin-right:0%;
+	top:17%;
+}
+.ftl
+{
+	position:absolute;
+	top:27%;
+	float:left;
+	margin:1%;
+	width:100%;
+}
+.table1
+{
+	position:absolute;
+	top:30%;
+	width:100%;
+	float:left;
+	border-collapse:seperate;
+	padding:50px;
+	border:1px;
+	margin:0 auto;
+}
+.tab-head
+{
+	background-color:#9b9b9b;
+}
